@@ -1,4 +1,7 @@
-# Security Policy
+"scripts": {
+  "build": "vite build",
+  "start": "npx serve -s dist -l $PORT"
+}# Security Policy
 
 ## Supported Versions
 
